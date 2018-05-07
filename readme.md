@@ -1,5 +1,5 @@
 # Computer Science
-Here is the list of all you need to know and understand in computer science course. Please be sure to mug this up.
+Here is the list of all you need to know and understand in a computer science course. Please be sure to mug this up.
 
 ## Table of Contents
 
